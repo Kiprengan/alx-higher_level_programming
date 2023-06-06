@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for i in range(97, 123):
-    print("{}".format(chr(i)), end="")
+for p in range(97, 123):
+    print("{}".format(chr(p)), end="")
