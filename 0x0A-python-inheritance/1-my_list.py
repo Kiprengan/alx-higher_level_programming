@@ -7,7 +7,7 @@ class MyList(list):
     def __init__(self):
         """Initiaization"""
         super().__init__()
-    
+
     def print_sorted(self):
         """Method that sorts list and prints"""
         print(sorted(self))
